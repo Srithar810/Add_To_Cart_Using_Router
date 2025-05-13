@@ -1,12 +1,47 @@
-# React + Vite
+# 🛒 React Router Add to Cart App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a beginner-friendly ReactJS shopping cart app built with **React Router** for navigation and **Tailwind CSS (via CDN)** for styling. Products are fetched from the **Fake Store API**, and users can add, update, and remove items from the cart.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📦 Features
 
-## Expanding the ESLint configuration
+- 🛍️ Add products to the cart (prevent duplicates)
+- ➕➖ Increase/Decrease quantity
+- ❌ Remove item from cart
+- 💰 Display total price with 10% discount
+- 🧭 Page navigation using React Router (Home / Cart)
+- 🎨 Styled with Tailwind via CDN (no config file needed)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+---
+## 🛠️ Built With
+React
+
+React Router DOM
+
+Vite (for dev server)
+
+Tailwind CSS (CDN)
+
+Fake Store API
+
+
+## 🚀 How to Use This Repo
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/react-router-cart-app.git
+cd react-router-cart-app
+
+2. Install Dependencies
+npm install
+
+3. Run the Development Server
+npm run dev
+
+Then open your browser at:
+📍 http://localhost:5173
+
+
