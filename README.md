@@ -1,7 +1,8 @@
 # 🛒 React Router Add to Cart App
 
-This is a beginner-friendly ReactJS shopping cart app built with **React Router** for navigation and **Tailwind CSS (via CDN)** for styling. Products are fetched from the **Fake Store API**, and users can add, update, and remove items from the cart.
+This is a beginner-friendly ReactJS shopping cart app built with **React Router** for navigation and **Tailwind CSS  for styling. Products are fetched from the **Fake Store API**, and users can add, update, and remove items from the cart.
 
+click here   https://fakestorerouteraddtocart.netlify.app/
 ---
 
 ## 📦 Features
@@ -32,7 +33,7 @@ Fake Store API
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/react-router-cart-app.git
+git clone https://github.com/Srithar810/Add_To_Cart_Using_Router.git
 cd react-router-cart-app
 
 2. Install Dependencies
